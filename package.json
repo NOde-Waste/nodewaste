@@ -7,7 +7,7 @@
     "start-react": "cd client && npm start"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.3",
+    "cookie-parser": "~1.4.5",
     "cors": "^2.8.5",
     "debug": "~2.6.9",
     "ejs": "~2.5.7",
